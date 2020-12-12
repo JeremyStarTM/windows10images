@@ -1,2 +1,7 @@
-# windows10images
-The image files for Windows 10 emulated
+# Windows 10 Emulated Images Repository
+
+In this repository you find 2 Windows 10 Images:
+1. Microsoft Windows 10 (VBoxAdditions installed)
+2. Microsoft Windows 10 (VBoxAdditions not installed)
+
+This repository is linked to ***https://www.youtube.com/watch?v=Pq8rFu1g4G8***
